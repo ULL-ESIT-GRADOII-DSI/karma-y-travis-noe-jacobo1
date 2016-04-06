@@ -28,7 +28,7 @@ En esta práctica hemos partido de la práctica anterior. El trabajo realizado h
 
 **Página de la práctica con los test**
 
-* [Test](https://github.com/noe-jacoboDSI/Karma-travis/test/test.html)
+* [Test](http://noe-jacobodsi.github.io/Karma-travis/test/test.html)
 
 
 **Página del autor**
